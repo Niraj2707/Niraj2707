@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Niraj2707
-- 👀 I’m interested in Cloud Interfacing And Software Analytics.
-- 🌱 I’m currently learning Pune,Maharastra, India
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Software Analytics.
+- 🌱 I’m currently learning C++ Programming.
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me 
 
 <!---
